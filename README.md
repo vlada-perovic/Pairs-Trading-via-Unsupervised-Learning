@@ -10,7 +10,7 @@ I did not have adjusted returns (  CRSP - Center for Research in Security Prices
 My results were not as good as in paper, especially for short legs. 
 
 
-Project goal was to replicate results from the Han(2022) paper i.e to evaluate Pairs Trading strategy and not to extend topics ( like stationarity check, optimal cluster number, optimal PCA components  ...). Due to a lack of time, robustness and systematic risk factors evaluations of models ( using factor regressions - FF3,FF5, q5 ) are not done.
+#Project goal was to replicate results from the Han(2022) paper i.e to evaluate Pairs Trading strategy and not to extend topics ( like stationarity check, optimal cluster number, optimal PCA components  ...). Due to a lack of time, robustness and systematic risk factors evaluations of models ( using factor regressions - FF3,FF5, q5 ) are not done.
 
 Strategy is based on using PCA for momentum and firm characteristics for preprocessing data and then using Unsupervised Learning ( clustering ) for detecting similar companies as candidates for pair trading. 
 Methodology:
