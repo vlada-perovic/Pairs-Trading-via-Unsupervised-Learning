@@ -27,7 +27,7 @@ In the Clustering part ( ML Project Pairs Trading - K-means.ipynb ,ML Project Pa
         						paper	my		paper	my		paper	my
 
 	Number of clusters				129	218		2	1.54		188	220
-	Number of stocks in total			157	3286		3157	3286		3157	3286
+	Number of stocks in total			3157	3286		3157	3286		3157	3286
 	Number of stocks in clusters			1257	1990		376	429		769	798
 	Number of outliers				1900	1296		2781	2847		2388	2488
 	Number of stocks in the biggest cluster		63	67		336	420		107	102
