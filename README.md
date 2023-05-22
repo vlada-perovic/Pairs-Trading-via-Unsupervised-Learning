@@ -71,7 +71,7 @@ In the Trading part ( ML Project Pairs Trading - Trading.ipynb ) I implemented t
 	Calmar_ratio,0.537	0.653		-0.41404732	0.048		0.07318667	2.013		-1.36600476	0.251	0.475
 
 
-These tables show a significant difference between my paper and my results. These are results without a transaction fee.
+These tables show a significant difference between paper and my results. These are results without a transaction fee.
 ( results of this intermediate step - KMeans_trading_results.csv,DBSCAN_trading_results.csv,Agglomerative_trading_results.csv )
 
 Further development of this topic:
